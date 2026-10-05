@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect width="48" height="48" rx="8" fill="#171513"/>
+  <!-- Delicate botanical arch line art -->
+  <path d="M 14 38 C 14 20, 24 9, 24 9 C 24 9, 34 20, 34 38" stroke="#C89B4B" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+  <path d="M 19 32 C 16 25, 20 18, 24 14 C 28 18, 32 25, 29 32" stroke="#A6A58C" stroke-width="1.2" fill="none" opacity="0.85"/>
+  <circle cx="24" cy="8" r="2.2" fill="#C89B4B"/>
+  <path d="M 19 23 Q 24 20 24 16" stroke="#C89B4B" stroke-width="1.2"/>
+  <path d="M 29 23 Q 24 20 24 16" stroke="#C89B4B" stroke-width="1.2"/>
+</svg>
